@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a STEM educator, data enthusiast, and emerging data scientist transitioning into the tech world. After a decade of leading award-winning STEM programs, mentoring students to national contests, and serving on statewide education committees, I'm now channeling that same energy into solving real-world problems with data.
+Leveraging 13 years of demonstrated success in education and STEM leadership, including driving 80%+ improvements in test scores through data-informed strategies, I am an accomplished professional transitioning into Data Analysis and Data Science. My Physics background provides a strong foundation in quantitative analysis and problem-solving, complemented by my expertise in Python, SQL, Tableau, Power BI, and Azure ML.
 
 ---
 
