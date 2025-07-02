@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-Leveraging 13 years of demonstrated success in education and STEM leadership, including driving 80%+ improvements in test scores through data-informed strategies, I am an accomplished professional transitioning into Data Analysis and Data Science. My Physics background provides a strong foundation in quantitative analysis and problem-solving, complemented by my expertise in Python, SQL, Tableau, Power BI, and Azure ML. As a STEM Coordinator, I led programs to two state robotics championships and a Gold TSA Chapter. Crucially, I employed data-driven strategies to elevate test scores from the bottom 10% to 89.5%, demonstrating a consistent ability to translate analytical insights into measurable educational advancements. My contributions also earned me District Teacher of the Year.
+Leveraging 13 years of demonstrated success in education and STEM leadership, including driving 80%+ improvements in test scores through data-informed strategies, I am an accomplished professional transitioning into Data Analysis and Data Science. My Physics background provides a strong foundation in quantitative analysis and problem-solving, complemented by my expertise in Python, SQL, Tableau, Power BI, and Azure ML. As a STEM Coordinator, I led programs to two state robotics championships and a Gold TSA Chapter. Crucially, I employed data-driven strategies to elevate test scores from the bottom 10% to 89.5% of all high schools in Oklahoma(top 10% if you disclude magnet schools!), demonstrating a consistent ability to translate analytical insights into measurable educational advancements. My contributions also earned me District Teacher of the Year.
 
 ---
 
